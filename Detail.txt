@@ -1,0 +1,7 @@
+Tutorial 3: Variables (let, mut, const)
+Tutorial 4: Data Types = Scalar (i32, u32, &str, bool), Compound (tuple, array)
+Tutorial 5: Using Modules = IO Input (&mut input), borrowed data
+Tutorial 6: Arithmetic and Type Casting
+Tutorial 7: Condition and Control Flow
+Tutorial 8: Functions, expressions, and statements
+Tutorial 9: Memory management, heap & stack
